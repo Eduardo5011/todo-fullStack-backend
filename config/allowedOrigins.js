@@ -1,3 +1,3 @@
-const allowOrigins = ["http://localhost:3000"];
+const allowOrigins = ["https://to-do-0dwh.onrender.com"];
 
 module.exports = allowOrigins;
